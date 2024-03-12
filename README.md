@@ -1,6 +1,6 @@
 # MCM 2024
 
-All data has been licensed and downloaded from Authoritative websites.
+All data has been licensed and downloaded from authoritative websites.
 
 This is a group project for MCM 2024.
 
